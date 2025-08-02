@@ -1,1 +1,3 @@
-# Quantum-Random-Number-Generator-
+# Quantum-Random-Number-Generator
+
+kwantowy generator liczb losowych
