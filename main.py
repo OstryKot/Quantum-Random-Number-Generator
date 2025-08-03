@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt
 # Utworzenie prostego obwodu kwantowego
 qc = QuantumCircuit(4, 4)
 
-for i in range(4):
+#bramka hadamarda na qubity 0,1,2,3
+for i in range(4): 
     qc.h(i)
 
 qc.measure_all()
